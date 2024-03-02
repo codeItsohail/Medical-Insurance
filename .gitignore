@@ -1,0 +1,5 @@
+TempFiles/
+*.pdf
+*config copy.py
+test.py
+

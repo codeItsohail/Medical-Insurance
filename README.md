@@ -25,3 +25,4 @@ Therefore, Linear Regression algorithm is the best fitted model based on the tra
 ```python
 python app.py
 ```
+<!-- ssh -i "sep_batch.pem" ubuntu@ec2-3-110-49-40.ap-south-1.compute.amazonaws.com -->
